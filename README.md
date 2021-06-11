@@ -1,1 +1,2 @@
-# Parallel-Image-Watermarking
+# Parallel Image Watermarking
+Several implementations of an image watermarking in C ++
